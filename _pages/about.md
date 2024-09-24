@@ -1,4 +1,4 @@
-[Run_Shi_CV.pdf](https://github.com/user-attachments/files/17115529/Run_Shi_CV.pdf)![wechat_picture](https://github.com/user-attachments/assets/b7efa626-4406-440c-ae19-da89a9ebc9a5)[Run Shi_CV.pdf](https://github.com/user-attachments/files/17115225/Run.Shi_CV.pdf)---
+[Run_Shi_CV.pdf](https://github.com/user-attachments/files/17115529/Run_Shi_CV.pdf)![wechat_picture](https://github.com/user-attachments/assets/b7efa626-4406-440c-ae19-da89a9ebc9a5)[Run Shi_CV.pdf]---
 permalink: /
 title: "About me"
 author_profile: true

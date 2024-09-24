@@ -11,10 +11,10 @@ I am a fourth year undergraduate student from [School of Mechanical Engineering]
 
 I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEco Thermal Lab Lab from [Institute of Microstructure Technologies]([https://www.imt.kit.edu/3484.php]), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
 
-You can find my CV here: [Run Shi's Curriculum Vitae]([Uploading Run Shi_CV.pdf…]).
+You can find my CV here: [Run Shi's Curriculum Vitae](Uploading Run Shi_CV.pdf…).
 
 
-[Email](mailto:shirun0127@sjtu.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat]([Uploading wechat_picture.jpg…])
+[Email](mailto:shirun0127@sjtu.edu.cn) / [Github](https://sr-shi.github.io/) / [Wechat](mailto:shirun0127@sjtu.edu.cn)(Uploading wechat_picture.jpg…)
 
 A data-driven personal website
 ======

@@ -1,4 +1,4 @@
----
+![wechat_picture](https://github.com/user-attachments/assets/b7efa626-4406-440c-ae19-da89a9ebc9a5)[Run Shi_CV.pdf](https://github.com/user-attachments/files/17115225/Run.Shi_CV.pdf)---
 permalink: /
 title: "About me"
 author_profile: true
@@ -9,11 +9,12 @@ redirect_from:
 
 I am a fourth year undergraduate student from [School of Mechanical Engineering](https://me.sjtu.edu.cn/en/), [Shanghai Jiao Tong University]([https://en.sjtu.edu.cn/]).My research interests mainly lie in elastocaloric cooling(devices and materials) and electrocaloric. I am now focusing on the devices of elastocaloric cooling, exploring its potential for higher temperature difference. I achieve high score in Engineering Material and Fluid Mechanics.I also have a background in PTVs.
 
-I was advised by [Prof. XX](https://XXX.pku.edu.cn/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEco Thermal Lab Lab from [Institute of Microstructure Technologies]([https://www.imt.kit.edu/3484.php]), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Run Shi's Curriculum Vitae]([Uploading Run Shi_CV.pdf…]).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
+[Email](mailto:shirun0127@sjtu.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat]([Uploading wechat_picture.jpg…])
 
 A data-driven personal website
 ======

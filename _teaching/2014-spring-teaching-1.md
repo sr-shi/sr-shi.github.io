@@ -2,7 +2,7 @@
 title: "Elastocaloric cooling device"
 collection: teaching
 type: "Research Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Karlsruhe Institute of Technology, Institute of Microstructure Technologies"
 date: Jun 2024-Sep 2024
 location: "Karlsruhe, Germany"

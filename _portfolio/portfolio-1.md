@@ -1,7 +1,8 @@
 ---
 title: "Trolly for automatic planting of pike seedings"
 excerpt: "Group leader
-Tencent 'Light' Technology Charity Creation Camp Investment(top 1\%)] with [\textyen 40w  (about \textdollar 6k <br/><img src='/images/500x300.png'>"
+
+Tencent 'Light' Technology Charity Creation Camp Investment(top 1%)] with [\textyen 40w  (about \textdollar 6k <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 ## My Duties 

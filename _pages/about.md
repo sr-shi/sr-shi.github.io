@@ -14,7 +14,7 @@ I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEc
 You can find my CV here: [Run Shi's Curriculum Vitae](Uploading Run_Shi_CV.pdf…).
 
 
-[Email](mailto:shirun0127@sjtu.edu.cn) / [Github](https://sr-shi.github.io/) / [Wechat](Uploading wechat_picture.jpg…)
+[Email](mailto:shirun0127@gmail.com) / [Github](https://sr-shi.github.io/) / [Wechat](Uploading wechat_picture.jpg…)
 
 A data-driven personal website
 ======

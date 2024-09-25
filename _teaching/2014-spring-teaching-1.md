@@ -1,7 +1,7 @@
 ---
 location: "Karlsruhe, Germany"
 title: "Elastocaloric cooling device"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 Lab: "Karlsruhe Institute of Technology, Institute of Microstructure Technologies"
 Time: Jun 2024-Sep 2024
 ---

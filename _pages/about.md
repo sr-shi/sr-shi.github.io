@@ -1,4 +1,4 @@
-[Run_Shi_CV.pdf](../assets/Run_Shi_CV.pdf)![wechat_picture](./images/wechat_picture.jpg)---
+---
 permalink: /
 title: "About me"
 author_profile: true

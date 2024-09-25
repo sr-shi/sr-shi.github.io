@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Three-dimensional particles in CO2 bubbles passed into NaOH solution in  tracking velocimetry using two-view systems"
 collection: teaching
-type: "Workshop"
+type: "Research assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Shanghai Jiao Tong University"
+date: 2023
+location: "Shanghai,China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During this research, I mainly help design and build carbon dioxide gas release experimental platform.
+As well as Implemente Calibration analysis of different orifice plates for bubble PTVs, Dual view shot of bubbles
 
 Heading 1
 ======

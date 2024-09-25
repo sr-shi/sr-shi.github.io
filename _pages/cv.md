@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in China, Shanghai Jiao Tong University, 2021-2025
+* Exchange in Germany, Karlsruhe Institute of Technology, 2024
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2024 - Sep 2024: Elasocaloric Cooling device
+  * Karlsruhe Institute of Technology-Institue of Microstructure Technology
+  * Duties includes: uild 3D models by Creo to build an elastocaloric experimental platform;Use Ansys to machine parts to meet strength requirements
+  * Supervisor: Dr. Jingyuan Xu:Head of “ZEco Thermal Lab
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* SOLIDWORKS , Creo , Matlab , Labview , Latex , Ansys , Comsol , C++ , Python , Find , Arduino
+* Languages:English(Tofel 102/120);Chinese(Native)
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Researchs
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

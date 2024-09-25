@@ -4,7 +4,7 @@ collection: teaching
 type: "Research assistant"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Shanghai Jiao Tong University"
-date: "2023"
+date:  Aug 2023- Mar 2024 
 location: "Shanghai, China"
 ---
 

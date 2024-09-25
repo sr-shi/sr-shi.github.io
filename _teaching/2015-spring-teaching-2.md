@@ -4,8 +4,8 @@ collection: teaching
 type: "Research assistant"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Shanghai Jiao Tong University"
-date: 2023
-location: "Shanghai,China"
+date: "2023"
+location: "Shanghai , China"
 ---
 
 During this research, I mainly help design and build carbon dioxide gas release experimental platform.

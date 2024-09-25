@@ -2,7 +2,7 @@
 title: "Three-dimensional particles in CO2 bubbles passed into NaOH solution in  tracking velocimetry using two-view systems"
 collection: teaching
 type: "Research assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Shanghai Jiao Tong University"
 date: 2023
 location: "Shanghai,China"

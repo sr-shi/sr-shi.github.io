@@ -1,6 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Trolly for automatic planting of pike seedings"
+excerpt: "Group leader
+Created [3D model], ensuring [Feasibility of processing and installation sites]
+Created [Physical Mechanical Structures] , achieving [Hollow drill seedling]
+Applied [Physical Mechanical Structures in Desert and keep optimizing] <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

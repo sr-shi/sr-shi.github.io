@@ -1,11 +1,34 @@
 ---
 title: "Trolly for automatic planting of pike seedings"
 excerpt: "Group leader
-Created [3D model], ensuring [Feasibility of processing and installation sites]
-Created [Physical Mechanical Structures] , achieving [Hollow drill seedling]
-Applied [Physical Mechanical Structures in Desert and keep optimizing] <br/><img src='/images/500x300.png'>"
+Tencent 'Light' Technology Charity Creation Camp Investment(top 1\%)] with [\textyen 40w  (about \textdollar 6k <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-## Shi Run is here
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## My Duties 
+Created [3D model], ensuring [Feasibility of processing and installation sites]
+
+Created [Physical Mechanical Structures] , achieving [Hollow drill seedling]
+
+Applied [Physical Mechanical Structures in Desert and keep optimizing]
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="../../hand_mapping.png" alt="Hand Mapping" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 3: Hand Motion Mapping</strong> <br>
+    </p>
+</div>
 ## No, Shi Run is here
+<div style="text-align: center; margin: 20px 0;">
+    <video id="myVideo" controls muted width="720">
+        <source src="../../simulation.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script>
+        var myVideo = document.getElementById("myVideo");
+        myVideo.addEventListener('loadedmetadata', function() {
+            this.poster = this.poster || this.captureStream().getVideoTracks()[0].getSettings().thumbnail;
+        });
+    </script>
+</div>

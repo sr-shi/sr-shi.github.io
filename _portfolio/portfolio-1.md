@@ -18,7 +18,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
         <strong>Fig 3: Hand Motion Mapping</strong> <br>
     </p>
 </div>
-## No, Shi Run is here
+## 3D models
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
         <source src="../../simulation.mp4" type="video/mp4">

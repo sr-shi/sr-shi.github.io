@@ -1,4 +1,4 @@
----
+ddddddddd---
 title: "Trolly for automatic planting of pike seedings"
 excerpt: "Group leader:Tencent 'Light' Technology Charity Creation Camp Investment(top 1%) with 40wRMB  (about ＄6k)<br/><img src='/images/Trolley.png'>"
 collection: portfolio
@@ -15,13 +15,13 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
         <img src="../../hand_mapping.png" alt="Hand Mapping" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 3: Hand Motion Mapping</strong> <br>
+        <strong>Fig 3: Hand dMotion Mapping</strong> <br>
     </p>
 </div>
 ## 3D models
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
-        <source src="../../simulation.mp4" type="video/mp4">
+        <source src="/images/Hollow_Drill.mp4" type="video/mp4">d
         Your browser does not support the video tag.
     </video>
     <script>

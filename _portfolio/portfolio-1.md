@@ -1,6 +1,6 @@
 ---
-title: "Trolly for automatic planting of pike seedings"
-excerpt: "Group leader:Tencent 'Light' Technology Charity Creation Camp Investment(top 1%) with 40wRMB  (about ＄60k)<br/><img src='/images/Trolley.png'>"
+title: "Mass testing system design using Labview"
+excerpt: "Group leader<br/><img src='/images/Trolley.png'>"
 collection: portfolio
 ---
 ## My Duties 

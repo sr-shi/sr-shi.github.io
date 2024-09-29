@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "PS"
-    url: /talks/    
+  ##- title: "PS"
+  ##url: /talks/    
 
   - title: "Researchs"
     url: /teaching/    

@@ -12,10 +12,10 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
-        <img src="/images/Trolley.png" alt="Trolley" style="width: 100%;" class="hover-img" />
+        <img src="/images/Trolly.png" alt="Trolly" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 3: Trolley</strong> <br>
+        <strong>Fig 3: Trolly</strong> <br>
     </p>
 </div>
 

@@ -15,7 +15,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
         <img src="/images/Trolley.png" alt="Trolley" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 3: Hand dMotion Mapping</strong> <br>
+        <strong>Fig 3: Trolley</strong> <br>
     </p>
 </div>
 

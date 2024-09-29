@@ -9,13 +9,5 @@ location: "Shanghai, China"
 ---
 
 During this research, I mainly help design and build carbon dioxide gas release experimental platform.
-As well as Implemente Calibration analysis of different orifice plates for bubble PTVs, Dual view shot of bubbles
+As well as Implemente Calibration analysis of different orifice plates for bubble PTVs, Dual view shot of bubbles.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

@@ -1,5 +1,5 @@
 ---
-title: "Mass testing system design using Labview"
+title: "Trolly for automatic planting of pike seedings"
 excerpt: "Group leader<br/><img src='/images/Trolley.png'>"
 collection: portfolio
 ---

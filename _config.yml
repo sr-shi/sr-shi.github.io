@@ -21,7 +21,7 @@ repository               : "sr-shi/sr-shi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/head_sculpture.png"
+  avatar           : "head_sculpture.png"
   name             : "Run Shi"
   pronouns         : # example: "she/her"  
   bio              : "But do whatever it takes to"

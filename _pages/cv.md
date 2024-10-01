@@ -25,11 +25,6 @@ Skills
 ======
 * SOLIDWORKS , Creo , Matlab , Labview , Latex , Ansys , Comsol , C++ , Python , Find , Arduino
 * Languages:English(Tofel 102/120);Chinese(Native)
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Researchs
 ======

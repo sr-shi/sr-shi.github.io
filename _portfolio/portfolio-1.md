@@ -95,7 +95,7 @@ In the assembly process, we laser-cut acrylic sheets and sliced an acrylic tube 
 
 We initially considered two options for the seedling transport mechanism:
 
-1. Conveyor Belt Seedling Transport
+1.2.1 Conveyor Belt Seedling Transport
 
 In this approach, a seedling storage tube would be used. The tube is aligned with the slanted base of the seedling chamber using a spring mechanism, and the tube’s body is suspended on a conveyor belt. A half-moon shaped baffle is positioned at the bottom, with a spring connecting the baffle and the tube. At the top of the drill, a baffle ensures that, when the seedling tube reaches the drill, the spring compresses, making the tube vertical and releasing it from the half-moon baffle, allowing the seedling to drop directly. Below is a conceptual diagram of this design:
 
@@ -112,13 +112,13 @@ In this approach, a seedling storage tube would be used. The tube is aligned wit
         <p>(b)</p >
     </div>
     <p style="text-align: center;">
-        <strong>Figure 1.2.1: Seedling storage and convey</strong> <br>
+        <strong>Figure 1.2.1.1: Seedling storage and convey</strong> <br>
         (a) Seedling storage tube<br>
         (b) Conveyor belt structure
     </p >
 </div>
 
-2. Lever Mechanism-Based Seedling Transport
+1.2.2 Lever Mechanism-Based Seedling Transport
 
 This method uses a single seedling storage tube. The vertical movement is achieved through a rack-and-pinion mechanism, while a linkage system lifts the entire structure, making it vertical for seedling delivery. The main components include: (1) an assembled cylindrical seedling storage tube, (2) a rack-and-pinion structure with a fixed mount, and (3) two linkages located at the front and middle of the storage tube.
 
@@ -141,7 +141,7 @@ Given the complexity of design, manufacturing difficulty, and cost consideration
         <p>(b)</p >
     </div>
     <p style="text-align: center;">
-        <strong>Figure 2.1: Gear-rack seedling conveying mechanism</strong> <br>
+        <strong>Figure 1.2.2.1: Gear-rack seedling conveying mechanism</strong> <br>
         (a) First type<br>
         (b) Second type
     </p >
@@ -154,6 +154,73 @@ After our calculations, we can get two linkage mechanisms designed as:
         <img src="/images/limit position diagram of the seedling transport connecting rod.png" alt="limit position diagram of the seedling transport connecting rod" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 2: Trolly_2.0</strong> <br>
+        <strong>Fig 1.2.2.2: Initial/limit position diagram of the seedling transport connecting rod</strong> <br>
+    </p>
+</div>
+
+2. Seedling Planting Mechanism
+
+2.1 Overview
+
+The seedling planting mechanism is primarily realized through a hollow drill. It consists of three main parts:
+
+Frame: Provides support and guides movement.
+
+Rotating Platform: Houses the motor and controls the vertical movement of the drill (which moves up and down with the drill).
+
+Hollow Drill: Used for drilling into the soil and planting the seedlings. Below, each part and the materials used for construction are described.
+
+2.2 Frame
+
+The frame is constructed from aluminum profiles, forming a rectangular structure measuring 180mm by 150mm by 460mm. A limiter block is placed 91mm below the top, which functions to control the position of the slider, and thereby the opening and closing of the drill head. A guide rail made of a steel shaft is placed 130mm from the frame, with a distance of 37mm to guide the rotating platform's vertical movement. Diamond-shaped bearings are used to secure the steel shaft to the frame, ensuring smooth and stable operation.
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="/images/Modeling diagram of the frame part of the seedling mechanism.png" alt="frame part of the seedling mechanism" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 2.2.1: Modeling diagram of the frame part of the seedling mechanism</strong> <br>
+    </p>
+</div>
+
+2.3 Rotating Platform
+
+The rotating platform of the vehicle consists of three main components:
+
+2.3.1	Load-bearing platform: This is the base structure.
+
+2.3.2	Motor housing: A box-like structure that contains the motor responsible for driving the rotation of the drill. This box is secured to the load-bearing platform using screws.\
+
+2.3.3	Drill attachment: This component fixes the drill to the platform using screws. The platform also has a hollow opening that aligns with the hollow drill, allowing for seamless operation.
+
+Due to the complexity of this part, we outsourced its manufacturing. The rotating platform is fixed to the guide rail using four linear bearings, ensuring smooth vertical movement along the rail.
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="/images/Rotating platform.png" alt="Rotating platform" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 2.3.3.1: Rotating platform</strong> <br>
+    </p>
+</div>
+
+2.4 Hollow Drill
+
+The hollow drill is the core component of the seedling planting mechanism. It consists of two main parts:
+
+2.4.1	Threaded drill body: This part includes the drill itself, which features a threaded design. The drill is connected to a nut, which engages with the threads to facilitate the drill's up and down movement as it rotates. For more efficient soil drilling and planting, we used a T-shaped thread with a pitch of 10mm.
+
+2.4.2	Top connector and rod mechanism: The top part connects to the internal mechanism that controls the opening and closing of the drill head. The drill head's opening and closing mechanism is controlled by a hinge-based linkage connected to three thin rods. These rods are fixed to a slider, which is controlled by a limiter block. When the slider moves upward, the drill head closes; when it moves downward, the drill head opens, allowing the seedling to drop into the soil.
+
+This design ensures precise control of the planting process. The figure below illustrates the components and mechanism in detail:
+
+(Here, a diagram would typically be included to show the structure of the hollow drill and its internal mechanism).
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="/images/Hollow drill bit nut.png" alt="Hollow drill bit nut" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 2.4.2.1: Hollow drill bit nut</strong> <br>
     </p>
 </div>

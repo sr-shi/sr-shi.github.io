@@ -218,10 +218,18 @@ This design ensures precise control of the planting process. The figure below il
 (Here, a diagram would typically be included to show the structure of the hollow drill and its internal mechanism).
 
 <div style="text-align: center;">
-    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
-        <img src="/images/Hollow drill bit nut.png" alt="Hollow drill bit nut" style="width: 100%;" class="hover-img" />
+    <br>
+    <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
+        < img src="/images/Hollow drill bit nut" alt="Hollow drill bit nut" style="width: 80%;" class="hover-img"/>
+        <p>(a)</p >
+    </div>
+    <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
+        < img src="/images/Engineering drawing of the overall internal structure of the drill bit.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
+        <p>(b)</p >
     </div>
     <p style="text-align: center;">
-        <strong>Fig 2.4.2.1: Hollow drill bit nut</strong> <br>
-    </p>
+        <strong>Figure 2.4.2.1: Hollow drill</strong> <br>
+        (a) Hollow drill bit nut<br>
+        (b) Engineering drawing of the overall internal structure of the drill bit
+    </p >
 </div>

@@ -40,7 +40,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
 3D model:
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
-        <source src="/images/Hollow_Drill.mp4" type="video/mp4">d
+        <source src="../images/Hollow_Drill.mp4" type="video/mp4">d
     </video>
     <script>
         var myVideo = document.getElementById("myVideo");

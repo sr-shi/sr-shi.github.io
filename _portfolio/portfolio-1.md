@@ -14,7 +14,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
 1.1 3D model overview
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
-        <img src="/images/Trolly_structure.png" alt="Trolly" style="width: 100%;" class="hover-img" />
+        <img src="/images/Trolly_structure.jpg" alt="Trolly" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
         <strong>Fig 1: Trolly_1.0</strong> <br>

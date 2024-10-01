@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* Jun 2024 - Sep 2024: Elasocaloric Cooling device
+* Jun 2024 - Sep 2024: Elastocaloric Cooling device
   * Karlsruhe Institute of Technology-Institue of Microstructure Technology
   * Duties includes: uild 3D models by Creo to build an elastocaloric experimental platform;Use Ansys to machine parts to meet strength requirements
   * Supervisor: Dr. Jingyuan Xu:Head of “ZEco Thermal Lab

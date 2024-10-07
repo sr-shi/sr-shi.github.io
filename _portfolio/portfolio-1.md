@@ -100,7 +100,7 @@ This part mainly consists of two components: the seedling chamber and the rotati
         <strong>Figure 1.1.2: Seedling Warehouse</strong> <br>
         (a) left bearing<br>
         (b) Stepper Motor
-    </p >
+    </p>
 </div>
 
 In the assembly process, we laser-cut acrylic sheets and sliced an acrylic tube into 1/4 arc segments. These were glued together using hot melt glue to create the seedling chamber. The rotating shaft was 3D printed, and using a flange coupling and a flanged bearing, the shaft was connected to both the seedling chamber and the micro stepper motor (5V/1:380).

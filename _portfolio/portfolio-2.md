@@ -11,7 +11,7 @@ Write Labview control system;Connect hardware device
         <img src="/images/Labview.png" alt="Labview" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 3: Labview Programming</strong> <br>
+        <strong>Fig 1: Labview Programming</strong> <br>
     </p>
 </div>
 
@@ -25,7 +25,7 @@ Pressure sensor, data acquisition module, amplifier and external power supply co
         <img src="/images/Labview_experiment.png" alt="Labview" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
-        <strong>Fig 3: Hardware device connection diagram</strong> <br>
+        <strong>Fig 1.1: Hardware device connection diagram</strong> <br>
     </p>
 </div>
 

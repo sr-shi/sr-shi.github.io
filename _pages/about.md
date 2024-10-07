@@ -13,7 +13,7 @@ I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEc
 
 Now I am preparing my bachelor thesis about electrocaloric(thin film materials) and will be advised by Prof. Xiaoshi Qian.
 
-You can find my CV here: [Run Shi's Curriculum Vitae](../assets/Run_Shi_CV.pdf).
+You can find my CV here: [Run Shi's Curriculum Vitae](/assets/Run_Shi_CV.pdf).
 
 
 [Email](mailto:shirun0127@gmail.com) / [Github](https://sr-shi.github.io/) / [Wechat](./images/wechat_picture.jpg)

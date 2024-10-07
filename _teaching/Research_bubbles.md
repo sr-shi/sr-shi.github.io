@@ -21,3 +21,28 @@ _Circle Calibration_
         <strong>Fig 1: Circle_calibration</strong> <br>
     </p>
 </div>
+
+
+_Bubble Detection_
+
+<div style="text-align: center;">
+    <br>
+    <div style="display: inline-block; text-align: center; width: 30%; vertical-align: top;">
+        <img src="/images/bubble1.png" alt="bubble1" style="width: 80%;" class="hover-img"/>
+        <p>(a)</p>
+    </div>
+    <div style="display: inline-block; text-align: center; width: 30%; vertical-align: top;">
+        <img src="/images/bubble2.png" alt="bubble2" style="width: 80%;" class="hover-img"/>
+        <p>(b)</p>
+    </div>
+    <div style="display: inline-block; text-align: center; width: 30%; vertical-align: top;">
+        <img src="/images/bubble3.png" alt="bubble3" style="width: 80%;" class="hover-img"/>
+        <p>(c)</p>
+    </div>
+    <p style="text-align: center;">
+        <strong>Figure 2: CO2 Bubble captured on camera(t1<t2<t3) </strong> <br>
+        (a) t1<br>
+        (b) t2<br>
+        (c) t3
+    </p>
+</div>

@@ -27,7 +27,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
         <source src="/images/Exploded_view.mp4" type="video/mp4">d
     </video>
     <script>
-
+</div>
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
@@ -43,6 +43,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
     <video id="myVideo" controls muted width="720">
         <source src="/images/Hollow_Drill.mp4" type="video/mp4">d
     </video>
+    <script>
 </div>
 
 _Abstract_

@@ -13,4 +13,11 @@ As well as Implemente Calibration analysis of different orifice plates for bubbl
 
 _Circle Calibration_
 
-Circle_calibration
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 80%; vertical-align: top;">
+        <img src="/images/Circle_calibration.png" alt="Circle_calibration" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 1: Circle_calibration</strong> <br>
+    </p>
+</div>

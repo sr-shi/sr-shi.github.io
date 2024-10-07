@@ -1,4 +1,4 @@
----
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/7e8711f9-a780-416c-ad9a-94b9e65885ed">---
 title: "Three-dimensional rise of CO2 bubble in NaOH solution Dynamic Characteristics Research"
 collection: teaching
 type: "Research assistant"
@@ -11,3 +11,6 @@ location: "Shanghai, China"
 During this research, I mainly help design and build carbon dioxide gas release experimental platform.
 As well as Implemente Calibration analysis of different orifice plates for bubble PTVs, Dual view shot of bubbles.
 
+_Circle Calibration_
+
+Circle_calibration

@@ -72,11 +72,11 @@ This part mainly consists of two components: the seedling chamber and the rotati
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Modeling of the seedling warehouse.png" alt="Modeling of the seedling warehouse" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Modeling of the seedling warehouse.png" alt="Modeling of the seedling warehouse" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Rendering of the seedling warehouse.png" alt="Rendering of the seedling warehouse" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Rendering of the seedling warehouse.png" alt="Rendering of the seedling warehouse" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">
@@ -90,11 +90,11 @@ This part mainly consists of two components: the seedling chamber and the rotati
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
         <img src="/images/Physical assembly diagram of the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
-        <p>(a)</p >
+        <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
         <img src="/images/Physical assembly diagram the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
-        <p>(b)</p >
+        <p>(b)</p>
     </div>
     <p style="text-align: center;">
         <strong>Figure 1.1.2: Seedling Warehouse</strong> <br>
@@ -119,17 +119,17 @@ In this approach, a seedling storage tube would be used. The tube is aligned wit
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
         <img src="/images/Seedling storage" alt="Seedling storage" style="width: 80%;" class="hover-img"/>
-        <p>(a)</p >
+        <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
         <img src="/images/Conveyor belt structure.png" alt="Conveyor belt structure" style="width: 80%;" class="hover-img"/>
-        <p>(b)</p >
+        <p>(b)</p>
     </div>
     <p style="text-align: center;">
         <strong>Figure 1.2.1.1: Seedling storage and convey</strong> <br>
         (a) Seedling storage tube<br>
         (b) Conveyor belt structure
-    </p >
+    </p>
 </div>
 
 1.2.2 Lever Mechanism-Based Seedling Transport
@@ -147,18 +147,18 @@ Given the complexity of design, manufacturing difficulty, and cost consideration
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Modeling diagram of the first type of gear-rack seedling conveying mechanism" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
-        <p>(a)</p >
+        <img src="/images/Modeling diagram of the first type of gear-rack seedling conveying mechanism" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
+        <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Modeling diagram of the second type of gear-rack seedling conveying mechanism.png" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
-        <p>(b)</p >
+        <img src="/images/Modeling diagram of the second type of gear-rack seedling conveying mechanism.png" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
+        <p>(b)</p>
     </div>
     <p style="text-align: center;">
         <strong>Figure 1.2.2.1: Gear-rack seedling conveying mechanism</strong> <br>
         (a) First type<br>
         (b) Second type
-    </p >
+    </p>
 </div>
 
 After our calculations, we can get two linkage mechanisms designed as:
@@ -233,12 +233,12 @@ This design ensures precise control of the planting process. The figure below il
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Hollow drill bit nut" alt="Hollow drill bit nut" style="width: 80%;" class="hover-img"/>
-        <p>(a)</p >
+        <img src="/images/Hollow drill bit nut" alt="Hollow drill bit nut" style="width: 80%;" class="hover-img"/>
+        <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        < img src="/images/Engineering drawing of the overall internal structure of the drill bit.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
-        <p>(b)</p >
+        <img src="/images/Engineering drawing of the overall internal structure of the drill bit.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
+        <p>(b)</p>
     </div>
     <p style="text-align: center;">
         <strong>Figure 2.4.2.1: Hollow drill</strong> <br>

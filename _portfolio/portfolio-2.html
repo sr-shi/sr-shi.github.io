@@ -48,3 +48,33 @@ Using a DAQ assistant to collect the data and display the raw waveform in a wave
 2.3.3 _2-time waveform interception:_ 1-time waveform interception after the average amplitude is not accurate enough, so the use of 2-time waveform interception. 1-time waveform interception, take the maximum value index, export the second subarray, get the amplitude of the maximum value of the data; 2-time waveform interception, using the minimum value index, the export of the second subarray, get the maximum value of the intercepted waveform in the minimum value of the data after the data, greatly improving accuracy.
 
 2.3.4 Add waveform charts to show the intercepted waveforms for easy debugging.
+
+2.4 Conversion of output voltage to quality results
+
+After 2 waveform intercepts, the amplitude and level measurement functions are used to read the mean (DC) amplitude and the numerical display space is used to show a more accurate amplitude value after 2 waveform intercepts. 
+After obtaining a more accurate post-intercept output voltage, the output voltage needs to be converted into a quality result. 
+
+Measurement of the excitation voltage with a multimeter, as well as the range of the amplifier output voltage (0-10V) and the range of the pressure transducer (0-30kg) gives the empirical formula for the mathematical operation of the calibration:
+
+2.5 Specific calibration process
+
+A 0.4kg and one 0.4kg and two 0.4kg weights were placed and the output voltage was read for calibration.
+The results are shown in the table below:
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="/images/Calibration.png" alt="Calibration process" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 2.5.1: Specific calibration process</strong> <br>
+    </p>
+</div>
+
+The theoretical equation obtained by assuming complete linearity of the sensor: _m=3U_
+
+_U=0.33*m+0.035 , m=3.03*(U-0.035)_
+
+The calibration is obtained accordingly.
+
+The calculated calibration formula eliminates the zero residual error, but does not completely eliminate the error due to non-linearity. 
+

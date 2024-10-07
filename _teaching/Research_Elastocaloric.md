@@ -18,7 +18,6 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
     <p style="text-align: center;">
         <strong>Fig 1: Modeling of Elastocaloric generator</strong> <br>
     </p>
-    <script>
 </div>
 
 <div style="text-align: center;">
@@ -28,7 +27,6 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
     <p style="text-align: center;">
         <strong>Fig 2: One unit Generator and Acuator</strong> <br>
     </p>
-    <script>
 </div>
 
 
@@ -39,5 +37,4 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
     <p style="text-align: center;">
         <strong>Fig 3: One unit Generator platform</strong> <br>
     </p>
-    <script>
 </div>

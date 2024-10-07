@@ -12,7 +12,7 @@ During this research, I mainly focus on the 3D modeling of elastocaloric cooling
 I also use Ansys to do simulation of the amount of deformation to determine the material to be processed and the thickness of the device.
 
 <div style="text-align: center;">
-    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+    <div style="display: inline-block; text-align: center; width: 80%; vertical-align: top;">
         <img src="/images/generator.png" alt="Elastocaloric generator" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
@@ -21,7 +21,7 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
 </div>
 
 <div style="text-align: center;">
-    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+    <div style="display: inline-block; text-align: center; width: 80%; vertical-align: top;">
         <img src="/images/oneunit.png" alt="One unit Generator and Acuator" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
@@ -31,7 +31,7 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
 
 
 <div style="text-align: center;">
-    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+    <div style="display: inline-block; text-align: center; width: 80%; vertical-align: top;">
         <img src="/images/platform.png" alt="One unit Generator platform" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">

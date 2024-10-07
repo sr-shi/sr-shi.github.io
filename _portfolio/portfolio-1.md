@@ -89,11 +89,11 @@ This part mainly consists of two components: the seedling chamber and the rotati
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        <img src="/images/Physical assembly diagram of the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
+        <img src="/images/physical assembly diagram of the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        <img src="/images/Physical assembly diagram the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Physical assembly diagram of seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">
@@ -118,7 +118,7 @@ In this approach, a seedling storage tube would be used. The tube is aligned wit
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
-        <img src="/images/Seedling storage" alt="Seedling storage" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Seedling storage tube.png" alt="Seedling storage" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">

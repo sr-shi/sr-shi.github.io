@@ -1,5 +1,5 @@
 ---
-title: "Three-dimensional particles in CO2 bubbles passed into NaOH solution in  tracking velocimetry using two-view systems"
+title: "Three-dimensional rise of CO2 bubble in NaOH solution Dynamic Characteristics Research"
 collection: teaching
 type: "Research assistant"
 permalink: /teaching/2015-spring-teaching-2

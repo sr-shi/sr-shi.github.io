@@ -13,7 +13,7 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
-        <img src="/images/generator.jpg" alt="Elastocaloric generator" style="width: 100%;" class="hover-img" />
+        <img src="/images/generator.png" alt="Elastocaloric generator" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
         <strong>Fig 1: Modeling of Elastocaloric generator</strong> <br>

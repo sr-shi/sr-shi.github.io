@@ -36,7 +36,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
     <p style="text-align: center;">
         <strong>Fig 2: Trolly_2.0</strong> <br>
     </p>
-    <script>
+</div>
 
 3D model:
 <div style="text-align: center; margin: 20px 0;">

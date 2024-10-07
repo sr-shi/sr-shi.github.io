@@ -71,11 +71,11 @@ The seedling release mechanism is primarily realized using a roller. By controll
 This part mainly consists of two components: the seedling chamber and the rotating shaft. The seedling chamber was laser-cut from acrylic sheets and manually assembled. Since the rotating shaft needs to be lightweight with low strength requirements, it was 3D printed.
 
 <div style="text-align: center;">
-    <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
+    <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
         <img src="/images/Modeling of the seedling warehouse.png" alt="Modeling of the seedling warehouse" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
-    <div style="display: inline-block; text-align: center; width: 28%; vertical-align: top;">
+    <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
         <img src="/images/Rendering of the seedling warehouse.png" alt="Rendering of the seedling warehouse" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>

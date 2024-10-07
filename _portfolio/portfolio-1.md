@@ -24,6 +24,19 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
 
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
+        <source src="/images/Exploded_view.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script>
+        var myVideo = document.getElementById("myVideo");
+        myVideo.addEventListener('loadedmetadata', function() {
+            this.poster = this.poster || this.captureStream().getVideoTracks()[0].getSettings().thumbnail;
+        });
+    </script>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+    <video id="myVideo" controls muted width="720">
         <source src="/images/Exploded_view.mp4" type="video/mp4">d
     </video>
     <script>

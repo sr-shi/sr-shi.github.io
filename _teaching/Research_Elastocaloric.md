@@ -18,7 +18,7 @@ I also use Ansys to do simulation of the amount of deformation to determine the 
     <p style="text-align: center;">
         <strong>Fig 1: Modeling of Elastocaloric generator</strong> <br>
     </p>
-</div>
+    <script>
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">

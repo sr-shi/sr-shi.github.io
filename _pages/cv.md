@@ -22,9 +22,10 @@ Research experience
    * Measurement of polarity, electrocaloric properties, and dielectric properties of electrocaloric materials
 
 * Jun 2024 - Sep 2024: Elastocaloric Cooling device
+  * Advisor: Dr. Jingyuan Xu:Head of “ZEco Thermal Lab
   * Karlsruhe Institute of Technology-Institue of Microstructure Technology
   * Duties includes: uild 3D models by Creo to build an elastocaloric experimental platform;Use Ansys to machine parts to meet strength requirements
-  * Supervisor: Dr. Jingyuan Xu:Head of “ZEco Thermal Lab
+  
 
 * Aug 2023 - Mar 2024: Three-dimensional rise of CO2 bubble in NaOH solution Dynamic Characteristics Research
   * Advisor: Prof. Qian Wang (Institute of Engineering Thermophysics SJTU)

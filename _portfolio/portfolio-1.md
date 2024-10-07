@@ -151,7 +151,7 @@ Given the complexity of design, manufacturing difficulty, and cost consideration
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Renderinging diagram of the second type of gearrack seedling conveying mechanism.png" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Renderinging diagram of the second type of gearrack seedling conveying mechanism.jpg" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">
@@ -254,7 +254,7 @@ This design ensures precise control of the planting process. The figure below il
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Exploded view of drill bit mechanism slider collision block core rendering.png" alt="Exploded view of drill bit mechanism slider collision block core rendering" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Exploded view of drill bit mechanism slider collision block core rendering.jpg" alt="Exploded view of drill bit mechanism slider collision block core rendering" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">

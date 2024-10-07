@@ -237,7 +237,7 @@ This design ensures precise control of the planting process. The figure below il
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Engineering drawing of the overall internal structure of the drill bit.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Engineering drawing of the main body of the drill bit.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">
@@ -245,4 +245,34 @@ This design ensures precise control of the planting process. The figure below il
         (a) Hollow drill bit nut<br>
         (b) Engineering drawing of the overall internal structure of the drill bit
     </p >
+</div>
+
+<div style="text-align: center;">
+    <br>
+    <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
+        <img src="/images/Core modeling diagram of slide block and collision block of drill bit mechanism.png" alt="Hollow drill bit nut" style="width: 80%;" class="hover-img"/>
+        <p>(a)</p>
+    </div>
+    <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
+        <img src="/images/Exploded view of drill bit mechanism slider collision block core rendering.png" alt="Engineering drawing of the overall internal structure of the drill bit" style="width: 80%;" class="hover-img"/>
+        <p>(b)</p>
+    </div>
+    <p style="text-align: center;">
+        <strong>Figure 2.4.2.2: Hollow Drill internal sructure</strong> <br>
+        (a) Slide block and collision block of drill bit mechanism<br>
+        (b) Exploded view of drill bit mechanism slider collision block core rendering
+    </p>
+</div>
+
+According to the fishing line diagram, we need to purchase fishing line, fishing line positioning beads, stainless steel short shaft, and a long rod with a sharp mouth.
+
+We chose a fishing line with a cross-sectional diameter of 1mm, which has less elasticity, less deformation, and a more suitable thickness; the positioning beads were selected with a diameter of 2mm and apertures of 1.2mm based on the thickness of the fishing line; the stainless steel short shaft was selected with a cross-section diameter of 4mm and a length based on modeling. The length of the long rod is 20mm; the long rod is selected based on modeling and cut and processed according to actual needs.
+
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
+        <img src="/images/Schematic diagram of the internal fishing line structure of the drill bit.png" alt="frame part of the seedling mechanism" style="width: 100%;" class="hover-img" />
+    </div>
+    <p style="text-align: center;">
+        <strong>Fig 2.4.2.3: Schematic diagram of the internal fishing line structure of the drill bit</strong> <br>
+    </p>
 </div>

@@ -147,11 +147,11 @@ Given the complexity of design, manufacturing difficulty, and cost consideration
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Modeling diagram of the first type of gear-rack seedling conveying mechanism" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Modeling diagram of the first type of gearrack seedling conveying mechanism" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Modeling diagram of the second type of gear-rack seedling conveying mechanism.png" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Modeling diagram of the second type of gearrack seedling conveying mechanism.png" alt="gear-rack seedling conveying mechanism" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">

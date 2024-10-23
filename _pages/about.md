@@ -11,7 +11,7 @@ I am a fourth year undergraduate student from [School of Mechanical Engineering]
 
 I am now advised by  [Prof. Xiaoshi Qian](https://scholar.google.com/citations?hl=en&user=ijAqaiUAAAAJ&view_op=list_works&sortby=pubdate) from Forward Interdisciplinary Research Center , Shanghai Jiao Tong University.
 
-I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEco Thermal Lab from [Institute of Microstructure Technologies]([https://www.imt.kit.edu/3484.php]), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
+I was advised by [Dr. Jingyuan Xu](https://www.imt.kit.edu/3487_3126.php) of ZEco Thermal Lab from [Institute of Microstructure Technologies]([https://www.imt.kit.edu/]), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
 
 
 You can find my CV here: [Run Shi's Curriculum Vitae](/assets/Run_Shi_CV.pdf).

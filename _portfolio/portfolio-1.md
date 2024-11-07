@@ -47,7 +47,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
 3D model:
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
-        <source src="/images/Hollow_Drill.mp4" type="video/mp4">
+        <source src="/images/Stopper video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     <script>
@@ -89,11 +89,11 @@ This part mainly consists of two components: the seedling chamber and the rotati
 <div style="text-align: center;">
     <br>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/physical assembly diagram of the seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
+        <img src="/images/flange bearing.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
         <p>(a)</p>
     </div>
     <div style="display: inline-block; text-align: center; width: 40%; vertical-align: top;">
-        <img src="/images/Physical assembly diagram of seedling warehouse.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
+        <img src="/images/Flange coupling screw.png" alt="Physical assembly diagram" style="width: 80%;" class="hover-img"/>
         <p>(b)</p>
     </div>
     <p style="text-align: center;">
@@ -165,7 +165,7 @@ After our calculations, we can get two linkage mechanisms designed as:
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: center; width: 60%; vertical-align: top;">
-        <img src="/images/limit position diagram of the seedling transport connecting rod.png" alt="limit position diagram of the seedling transport connecting rod" style="width: 100%;" class="hover-img" />
+        <img src="/images/initial point.png" alt="limit position diagram of the seedling transport connecting rod" style="width: 100%;" class="hover-img" />
     </div>
     <p style="text-align: center;">
         <strong>Fig 1.2.2.2: Initial/limit position diagram of the seedling transport connecting rod</strong> <br>

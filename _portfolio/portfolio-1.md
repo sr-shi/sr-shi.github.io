@@ -22,6 +22,7 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
     </p>
 </div>
 
+Exploded view:
 <div style="text-align: center; margin: 20px 0;">
     <video id="myVideo" controls muted width="720">
         <source src="/images/Exploded_view.mp4" type="video/mp4">

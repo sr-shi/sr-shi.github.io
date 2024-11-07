@@ -58,6 +58,20 @@ Applied [Physical Mechanical Structures in Desert and keep optimizing]
     </script>
 </div>
 
+Physical Structure:
+<div style="text-align: center; margin: 20px 0;">
+    <video id="myVideo" controls muted width="720">
+        <source src="/images/physical structure.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script>
+        var myVideo = document.getElementById("myVideo");
+        myVideo.addEventListener('loadedmetadata', function() {
+            this.poster = this.poster || this.captureStream().getVideoTracks()[0].getSettings().thumbnail;
+        });
+    </script>
+</div>
+
 _Abstract_
 
 Desert regions have harsh climates and low income levels for residents. Cistanche can serve as a viable economic crop to improve local income, but it requires the support of the Haloxylon ammodendron tree for stable survival. Haloxylon also enhances the local environment and helps curb land desertification. However, the survival rate of Haloxylon is currently low; young trees may be buried by sand or die from harsh weather, while adult trees are at risk from root consumption by sand rats. Addressing these uncontrollable factors is challenging. Therefore, we plan to design an automated vehicle for planting Haloxylon, which will patrol planting bases for replanting efforts. This vehicle will be powered by solar panels and autonomously return to its base for recharging. Our project is divided into four parts: mechanism selection, design, modeling and simulation, and manufacturing. We have successfully implemented a series of actions including seedling emergence, transportation, and drilling for planting. After multiple brainstorming sessions and extensive research, our team utilized SolidWorks for modeling, created animations, calculated torque for the design, adjusted motor rotation cycles, and fabricated components, leading to continuous improvements of our vehicle and achieving the desired functionality.

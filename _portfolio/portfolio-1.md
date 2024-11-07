@@ -1,6 +1,6 @@
 ---
 title: "Trolly for automatic planting of pike seedings"
-excerpt: "Group leader | Awarded Tecent Top 1% Light Camp Investment<br/><img src='/images/Trolly_model.png'>"
+excerpt: "Group leader, awarded Tecent Top 1% Light Camp Investment<br/><img src='/images/Trolly_model.png'>"
 collection: portfolio
 ---
 My Duties: 
